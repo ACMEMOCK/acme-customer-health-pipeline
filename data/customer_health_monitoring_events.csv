@@ -1,0 +1,129 @@
+event_id,customer_id,customer_name,country,industry,subscription_plan,account_manager,event_date,event_type,product_name,daily_active_users,weekly_active_users,feature_usage_score,support_ticket_count,avg_response_time_hours,customer_health_score,churn_risk_score,renewal_probability_pct,monthly_recurring_revenue_eur,contract_value_eur,alert_flag,alert_type,recommended_action
+EVT-20001,CUST-1028,Doha LogiTech,Qatar,Manufacturing,Growth,Marta Sokolowska,2025-10-06,qbr_snapshot,SupportPilot,22,68,57,10,12.6,45,46,48,1332.55,31981.2,N,,Support escalation
+EVT-20002,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2025-10-12,ticket_review,InsightGrid,306,965,57,31,3.0,4,77,20,55454.7,665456.4,Y,Ticket surge,Support escalation
+EVT-20003,CUST-1030,Auckland MarketCo,New Zealand,Retail,Enterprise,Yuki Tanaka,2025-10-18,adoption_audit,FlowSphere,1013,3462,83,10,11.3,58,34,64,33808.76,1217115.36,N,,Support escalation
+EVT-20004,CUST-1010,Lumen Retail Group,Spain,Retail,Enterprise,Tomás Ferreira,2025-10-25,qbr_snapshot,InsightGrid,672,1489,79,4,16.7,59,20,80,46780.08,1122721.92,N,,Routine check-in
+EVT-20005,CUST-1026,São Paulo Pay,Brazil,FinTech,Business,Tomás Ferreira,2025-10-26,adoption_audit,InsightGrid,119,352,53,10,16.9,45,46,51,6745.92,242853.12,N,,Support escalation
+EVT-20006,CUST-1028,Doha LogiTech,Qatar,Manufacturing,Growth,Marta Sokolowska,2025-11-01,renewal_review,InsightGrid,56,155,33,7,0.5,43,48,55,1840.82,66269.52,N,,Training session
+EVT-20007,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2025-11-07,health_scan,FlowSphere,804,2080,41,1,15.4,47,39,58,19898.13,716332.68,N,,Renewal planning call
+EVT-20008,CUST-1018,Copenhagen Med,Denmark,Healthcare,Growth,Yuki Tanaka,2025-11-20,qbr_snapshot,InsightGrid,34,125,85,3,7.8,72,21,82,1648.25,59337.0,N,,Routine check-in
+EVT-20009,CUST-1013,Tundra Goods,Finland,Retail,Enterprise,Anika Roth,2025-11-27,adoption_audit,FlowSphere,1427,4159,98,0,14.6,82,9,88,26330.68,947904.48,N,,Routine check-in
+EVT-20010,CUST-1015,Helios Software,Greece,SaaS,Enterprise,Henrik Bergstrom,2025-11-29,health_scan,InsightGrid,969,2077,100,2,15.2,78,3,99,52071.44,624857.28,N,,Routine check-in
+EVT-20011,CUST-1007,Polaris Health,Sweden,Healthcare,Starter,Pieter de Vries,2025-12-03,qbr_snapshot,InsightGrid,20,43,29,1,18.4,35,50,49,304.86,3658.32,Y,Low adoption,Training session
+EVT-20012,CUST-1025,Bengaluru Forge,India,Manufacturing,Enterprise,Henrik Bergstrom,2025-12-19,adoption_audit,InsightGrid,1058,3140,68,0,4.0,66,21,83,46760.71,1683385.56,N,,Routine check-in
+EVT-20013,CUST-1027,Cape Town Apps,South Africa,SaaS,Starter,Elena Marchetti,2025-12-20,qbr_snapshot,FlowSphere,12,26,44,6,12.2,44,44,57,647.68,15544.32,N,,Renewal planning call
+EVT-20014,CUST-1010,Lumen Retail Group,Spain,Retail,Enterprise,Tomás Ferreira,2025-12-26,qbr_snapshot,SupportPilot,1024,3785,40,9,12.0,37,52,41,22988.37,275860.44,Y,Declining health,Customer success review
+EVT-20015,CUST-1021,Brightline Analytics,United States,SaaS,Enterprise,Priya Menon,2025-12-29,health_scan,InsightGrid,334,866,55,2,27.4,47,31,71,56003.83,1344091.92,N,,Routine check-in
+EVT-20016,CUST-1012,Iberia DataWorks,Portugal,SaaS,Business,Marta Sokolowska,2026-01-02,adoption_audit,SupportPilot,187,584,65,1,21.6,55,33,69,5534.03,66408.36,N,,Routine check-in
+EVT-20017,CUST-1017,Halden Bank,Norway,FinTech,Enterprise,Henrik Bergstrom,2026-01-02,usage_check,InsightGrid,1221,4374,88,2,12.1,70,14,80,25505.1,918183.6,N,,Routine check-in
+EVT-20018,CUST-1022,Maple Insurance,Canada,FinTech,Growth,Yuki Tanaka,2026-01-03,qbr_snapshot,FlowSphere,53,198,53,8,17.0,43,42,58,2552.74,61265.76,N,,Support escalation
+EVT-20019,CUST-1023,Sunrise Wellness,Australia,Healthcare,Starter,Marta Sokolowska,2026-01-07,health_scan,FlowSphere,21,66,55,10,15.8,41,44,62,532.45,12778.8,N,,Support escalation
+EVT-20020,CUST-1006,Mistral Pay,France,FinTech,Business,Anika Roth,2026-01-09,qbr_snapshot,InsightGrid,195,696,54,5,11.2,56,38,61,7899.39,94792.68,N,,Routine check-in
+EVT-20021,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-01-09,health_scan,FlowSphere,1421,3953,69,0,2.2,66,20,73,56427.61,677131.32,N,,Routine check-in
+EVT-20022,CUST-1027,Cape Town Apps,South Africa,SaaS,Starter,Elena Marchetti,2026-01-09,renewal_review,SupportPilot,13,43,19,3,19.3,29,56,39,438.76,5265.12,Y,Low adoption,Training session
+EVT-20023,CUST-1015,Helios Software,Greece,SaaS,Enterprise,Henrik Bergstrom,2026-01-09,ticket_review,FlowSphere,922,2864,48,6,26.0,41,49,46,13494.75,485811.0,N,,Renewal planning call
+EVT-20024,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-01-10,renewal_review,FlowSphere,21,69,37,4,11.4,48,42,64,2177.12,26125.44,N,,Training session
+EVT-20025,CUST-1014,Onyx Manufacturing,Poland,Manufacturing,Enterprise,Sofia Ricci,2026-01-13,health_scan,InsightGrid,1128,3065,68,3,3.4,69,26,74,16378.79,196545.48,N,,Routine check-in
+EVT-20026,CUST-1014,Onyx Manufacturing,Poland,Manufacturing,Enterprise,Sofia Ricci,2026-01-13,renewal_review,FlowSphere,741,2452,73,0,6.1,65,17,87,25426.59,305119.08,N,,Routine check-in
+EVT-20027,CUST-1006,Mistral Pay,France,FinTech,Business,Anika Roth,2026-01-14,qbr_snapshot,InsightGrid,166,476,65,5,25.1,55,39,68,4611.51,110676.24,N,,Routine check-in
+EVT-20028,CUST-1028,Doha LogiTech,Qatar,Manufacturing,Growth,Marta Sokolowska,2026-01-16,renewal_review,InsightGrid,71,156,64,3,22.2,62,35,63,2955.77,35469.24,N,,Routine check-in
+EVT-20029,CUST-1023,Sunrise Wellness,Australia,Healthcare,Starter,Marta Sokolowska,2026-01-16,usage_check,FlowSphere,20,56,49,5,12.1,47,42,58,366.71,8801.04,N,,Renewal planning call
+EVT-20030,CUST-1001,Nordwind Logistics,Germany,Manufacturing,Enterprise,Anika Roth,2026-01-17,health_scan,SupportPilot,1334,3220,60,4,15.8,59,37,57,23424.22,843271.92,N,,Renewal planning call
+EVT-20031,CUST-1024,Kanto FoodMart,Japan,Retail,Enterprise,Noah Becker,2026-01-17,renewal_review,InsightGrid,1276,3495,67,0,19.0,58,23,77,18160.06,217920.72,N,,Routine check-in
+EVT-20032,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-01-18,ticket_review,FlowSphere,71,182,48,3,18.8,45,41,58,3277.82,118001.52,N,,Renewal planning call
+EVT-20033,CUST-1030,Auckland MarketCo,New Zealand,Retail,Enterprise,Yuki Tanaka,2026-01-19,renewal_review,InsightGrid,990,3741,78,0,17.1,68,12,93,16786.16,604301.76,N,,Routine check-in
+EVT-20034,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-01-19,usage_check,SupportPilot,1267,3221,81,3,10.0,67,14,89,33290.99,399491.88,N,,Routine check-in
+EVT-20035,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-01-21,renewal_review,InsightGrid,27,66,55,5,1.7,57,29,69,2401.99,57647.76,N,,Routine check-in
+EVT-20036,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-01-24,health_scan,InsightGrid,60,205,46,4,10.5,44,35,64,2498.5,29982.0,N,,Routine check-in
+EVT-20037,CUST-1010,Lumen Retail Group,Spain,Retail,Enterprise,Tomás Ferreira,2026-01-25,adoption_audit,SupportPilot,1020,3533,58,0,8.6,67,25,75,59429.72,2139469.92,N,,Routine check-in
+EVT-20038,CUST-1017,Halden Bank,Norway,FinTech,Enterprise,Henrik Bergstrom,2026-01-27,health_scan,InsightGrid,1281,4184,60,33,18.1,1,81,14,53015.33,1908551.88,Y,High churn risk,Executive outreach
+EVT-20039,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2026-01-29,adoption_audit,FlowSphere,933,3192,73,7,27.6,55,34,70,36635.42,439625.04,N,,Routine check-in
+EVT-20040,CUST-1003,BlueHarbor Retail,Netherlands,Retail,Growth,Tomás Ferreira,2026-01-30,qbr_snapshot,FlowSphere,35,80,12,4,12.3,25,55,48,2727.77,98199.72,Y,Low adoption,Training session
+EVT-20041,CUST-1001,Nordwind Logistics,Germany,Manufacturing,Enterprise,Anika Roth,2026-02-01,health_scan,FlowSphere,354,1310,68,20,7.1,29,57,47,53313.72,1279529.28,Y,Ticket surge,Support escalation
+EVT-20042,CUST-1017,Halden Bank,Norway,FinTech,Enterprise,Henrik Bergstrom,2026-02-01,qbr_snapshot,InsightGrid,842,3133,92,0,15.1,83,11,93,24689.38,888817.68,N,,Routine check-in
+EVT-20043,CUST-1020,Orbita Retail,Romania,Retail,Enterprise,Anika Roth,2026-02-03,health_scan,SupportPilot,1466,3527,52,3,31.4,48,42,61,57484.33,689811.96,N,,Routine check-in
+EVT-20044,CUST-1024,Kanto FoodMart,Japan,Retail,Enterprise,Noah Becker,2026-02-06,adoption_audit,FlowSphere,1460,4415,43,8,16.3,34,48,54,36536.35,438436.2,Y,Declining health,Customer success review
+EVT-20045,CUST-1027,Cape Town Apps,South Africa,SaaS,Starter,Elena Marchetti,2026-02-06,renewal_review,InsightGrid,16,58,29,6,8.9,32,47,56,501.17,6014.04,Y,Low adoption,Training session
+EVT-20046,CUST-1003,BlueHarbor Retail,Netherlands,Retail,Growth,Tomás Ferreira,2026-02-07,ticket_review,FlowSphere,30,81,19,4,12.3,37,58,39,2711.14,97601.04,Y,Low adoption,Training session
+EVT-20047,CUST-1009,Kestrel Markets,United Kingdom,FinTech,Starter,Pieter de Vries,2026-02-07,qbr_snapshot,FlowSphere,21,46,31,5,67.0,24,60,37,426.74,5120.88,Y,SLA breach,Support escalation
+EVT-20048,CUST-1017,Halden Bank,Norway,FinTech,Enterprise,Henrik Bergstrom,2026-02-08,adoption_audit,FlowSphere,454,1331,68,6,15.7,51,27,69,57904.88,1389717.12,N,,Routine check-in
+EVT-20049,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-02-13,ticket_review,InsightGrid,31,78,52,10,0.5,47,42,63,2392.57,86132.52,N,,Support escalation
+EVT-20050,CUST-1014,Onyx Manufacturing,Poland,Manufacturing,Enterprise,Sofia Ricci,2026-02-15,qbr_snapshot,InsightGrid,1311,3721,78,10,19.2,57,28,77,39633.14,1426793.04,N,,Support escalation
+EVT-20051,CUST-1025,Bengaluru Forge,India,Manufacturing,Enterprise,Henrik Bergstrom,2026-02-16,health_scan,FlowSphere,1443,4968,74,6,12.6,54,23,79,13892.28,500122.08,N,,Routine check-in
+EVT-20052,CUST-1030,Auckland MarketCo,New Zealand,Retail,Enterprise,Yuki Tanaka,2026-02-18,health_scan,InsightGrid,1476,3786,70,7,0.5,56,27,70,18109.81,651953.16,N,,Routine check-in
+EVT-20053,CUST-1024,Kanto FoodMart,Japan,Retail,Enterprise,Noah Becker,2026-02-19,renewal_review,SupportPilot,1303,3222,38,0,18.6,42,34,61,42117.41,1516226.76,N,,Training session
+EVT-20054,CUST-1021,Brightline Analytics,United States,SaaS,Enterprise,Priya Menon,2026-02-20,health_scan,FlowSphere,940,2740,80,5,12.6,62,26,75,41373.52,496482.24,N,,Routine check-in
+EVT-20055,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2026-02-23,adoption_audit,InsightGrid,1455,3744,52,7,2.1,47,39,61,12798.57,307165.68,N,,Routine check-in
+EVT-20056,CUST-1017,Halden Bank,Norway,FinTech,Enterprise,Henrik Bergstrom,2026-02-24,adoption_audit,InsightGrid,714,2591,68,4,8.4,53,30,72,24573.85,884658.6,N,,Routine check-in
+EVT-20057,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-02-24,health_scan,SupportPilot,17,46,43,2,8.8,54,38,57,890.31,10683.72,N,,Renewal planning call
+EVT-20058,CUST-1013,Tundra Goods,Finland,Retail,Enterprise,Anika Roth,2026-02-24,adoption_audit,FlowSphere,1418,4645,34,8,18.5,26,57,49,59863.88,718366.56,Y,Declining health,Customer success review
+EVT-20059,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-02-24,adoption_audit,InsightGrid,23,70,53,2,4.2,58,27,70,336.57,4038.84,N,,Routine check-in
+EVT-20060,CUST-1006,Mistral Pay,France,FinTech,Business,Anika Roth,2026-02-26,renewal_review,InsightGrid,139,458,74,13,0.5,52,30,64,7266.46,261592.56,N,,Support escalation
+EVT-20061,CUST-1009,Kestrel Markets,United Kingdom,FinTech,Starter,Pieter de Vries,2026-02-26,qbr_snapshot,FlowSphere,18,38,26,0,0.8,40,43,54,661.57,23816.52,N,,Training session
+EVT-20062,CUST-1020,Orbita Retail,Romania,Retail,Enterprise,Anika Roth,2026-02-28,usage_check,InsightGrid,1283,3146,100,0,4.2,90,4,99,28328.42,679882.08,N,,Routine check-in
+EVT-20063,CUST-1023,Sunrise Wellness,Australia,Healthcare,Starter,Marta Sokolowska,2026-02-28,qbr_snapshot,InsightGrid,25,82,41,4,5.8,44,41,57,897.98,21551.52,N,,Renewal planning call
+EVT-20064,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-02-28,qbr_snapshot,InsightGrid,60,147,54,4,24.2,47,37,64,2561.24,92204.64,N,,Routine check-in
+EVT-20065,CUST-1009,Kestrel Markets,United Kingdom,FinTech,Starter,Pieter de Vries,2026-02-28,qbr_snapshot,FlowSphere,10,24,48,0,14.3,49,36,71,355.05,4260.6,N,,Routine check-in
+EVT-20066,CUST-1004,Volta FinServ,France,FinTech,Growth,Tomás Ferreira,2026-02-28,usage_check,FlowSphere,51,170,57,5,20.7,53,42,52,3140.59,37687.08,N,,Renewal planning call
+EVT-20067,CUST-1026,São Paulo Pay,Brazil,FinTech,Business,Tomás Ferreira,2026-03-01,health_scan,SupportPilot,210,669,82,2,0.5,67,9,88,9866.14,236787.36,N,,Routine check-in
+EVT-20068,CUST-1004,Volta FinServ,France,FinTech,Growth,Tomás Ferreira,2026-03-02,adoption_audit,InsightGrid,76,286,37,5,5.1,36,47,57,3442.76,41313.12,Y,Declining health,Customer success review
+EVT-20069,CUST-1009,Kestrel Markets,United Kingdom,FinTech,Starter,Pieter de Vries,2026-03-02,health_scan,FlowSphere,20,40,5,0,1.8,37,58,38,312.23,3746.76,Y,Low adoption,Training session
+EVT-20070,CUST-1016,Nimbus Cloud Co,Belgium,SaaS,Growth,Pieter de Vries,2026-03-02,health_scan,InsightGrid,41,122,36,0,9.0,52,39,57,2916.42,34997.04,N,,Training session
+EVT-20071,CUST-1024,Kanto FoodMart,Japan,Retail,Enterprise,Noah Becker,2026-03-04,usage_check,SupportPilot,739,2770,73,17,18.5,35,44,62,56276.84,675322.08,Y,Ticket surge,Support escalation
+EVT-20072,CUST-1009,Kestrel Markets,United Kingdom,FinTech,Starter,Pieter de Vries,2026-03-05,qbr_snapshot,SupportPilot,22,74,12,5,8.7,24,58,46,641.91,23108.76,Y,Low adoption,Training session
+EVT-20073,CUST-1026,São Paulo Pay,Brazil,FinTech,Business,Tomás Ferreira,2026-03-11,usage_check,FlowSphere,123,288,75,1,10.8,73,13,91,10775.72,129308.64,N,,Routine check-in
+EVT-20074,CUST-1001,Nordwind Logistics,Germany,Manufacturing,Enterprise,Anika Roth,2026-03-11,health_scan,InsightGrid,1472,5589,61,5,11.9,59,38,67,29737.3,356847.6,N,,Routine check-in
+EVT-20075,CUST-1014,Onyx Manufacturing,Poland,Manufacturing,Enterprise,Sofia Ricci,2026-03-12,ticket_review,FlowSphere,660,2498,63,19,6.2,33,53,44,52066.75,1874403.0,Y,Ticket surge,Support escalation
+EVT-20076,CUST-1024,Kanto FoodMart,Japan,Retail,Enterprise,Noah Becker,2026-03-15,adoption_audit,InsightGrid,466,1398,52,1,18.7,57,38,65,58483.13,1403595.12,N,,Routine check-in
+EVT-20077,CUST-1029,Singapore HealthOne,Singapore,Healthcare,Enterprise,Pieter de Vries,2026-03-15,usage_check,InsightGrid,1075,3147,94,7,17.6,63,17,87,57793.67,1387048.08,N,,Routine check-in
+EVT-20078,CUST-1026,São Paulo Pay,Brazil,FinTech,Business,Tomás Ferreira,2026-03-16,ticket_review,FlowSphere,135,357,72,1,15.2,61,18,84,6751.63,81019.56,N,,Routine check-in
+EVT-20079,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-03-16,usage_check,InsightGrid,7,25,39,4,0.9,48,38,55,452.67,5432.04,N,,Training session
+EVT-20080,CUST-1012,Iberia DataWorks,Portugal,SaaS,Business,Marta Sokolowska,2026-03-18,usage_check,SupportPilot,116,277,71,5,3.8,60,26,76,5356.5,64278.0,N,,Routine check-in
+EVT-20081,CUST-1025,Bengaluru Forge,India,Manufacturing,Enterprise,Henrik Bergstrom,2026-03-20,health_scan,FlowSphere,794,1648,52,5,10.9,52,34,71,25014.37,600344.88,N,,Routine check-in
+EVT-20082,CUST-1010,Lumen Retail Group,Spain,Retail,Enterprise,Tomás Ferreira,2026-03-23,qbr_snapshot,SupportPilot,1283,2584,78,0,17.0,65,18,79,41031.83,984763.92,N,,Routine check-in
+EVT-20083,CUST-1012,Iberia DataWorks,Portugal,SaaS,Business,Marta Sokolowska,2026-03-23,renewal_review,SupportPilot,232,573,42,0,21.7,49,40,66,6288.05,75456.6,N,,Routine check-in
+EVT-20084,CUST-1029,Singapore HealthOne,Singapore,Healthcare,Enterprise,Pieter de Vries,2026-03-24,qbr_snapshot,InsightGrid,402,1407,80,0,0.5,72,10,86,29408.93,705814.32,N,,Routine check-in
+EVT-20085,CUST-1025,Bengaluru Forge,India,Manufacturing,Enterprise,Henrik Bergstrom,2026-03-25,qbr_snapshot,SupportPilot,950,2519,81,4,11.2,64,20,74,18609.37,446624.88,N,,Routine check-in
+EVT-20086,CUST-1026,São Paulo Pay,Brazil,FinTech,Business,Tomás Ferreira,2026-03-26,ticket_review,InsightGrid,231,821,70,1,27.8,58,30,69,6094.12,73129.44,N,,Routine check-in
+EVT-20087,CUST-1007,Polaris Health,Sweden,Healthcare,Starter,Pieter de Vries,2026-03-26,health_scan,FlowSphere,20,48,56,10,24.1,39,51,54,884.73,10616.76,Y,Declining health,Customer success review
+EVT-20088,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-03-26,renewal_review,SupportPilot,425,995,54,5,15.4,48,42,61,45877.21,550526.52,N,,Routine check-in
+EVT-20089,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-03-28,ticket_review,SupportPilot,1310,2763,73,3,15.0,63,19,81,52864.44,634373.28,N,,Routine check-in
+EVT-20090,CUST-1010,Lumen Retail Group,Spain,Retail,Enterprise,Tomás Ferreira,2026-03-29,ticket_review,SupportPilot,1488,3047,60,0,16.2,61,30,71,20184.58,726644.88,N,,Routine check-in
+EVT-20091,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-03-30,renewal_review,FlowSphere,10,28,21,0,0.5,38,42,56,702.08,8424.96,Y,Low adoption,Training session
+EVT-20092,CUST-1025,Bengaluru Forge,India,Manufacturing,Enterprise,Henrik Bergstrom,2026-03-30,usage_check,SupportPilot,742,2353,73,0,0.5,77,15,89,44879.56,1077109.44,N,,Routine check-in
+EVT-20093,CUST-1030,Auckland MarketCo,New Zealand,Retail,Enterprise,Yuki Tanaka,2026-04-04,qbr_snapshot,SupportPilot,1380,3934,79,0,20.7,69,21,81,59239.93,710879.16,N,,Routine check-in
+EVT-20094,CUST-1030,Auckland MarketCo,New Zealand,Retail,Enterprise,Yuki Tanaka,2026-04-04,ticket_review,SupportPilot,818,2591,76,27,17.5,19,60,46,45431.23,1635524.28,Y,Ticket surge,Support escalation
+EVT-20095,CUST-1004,Volta FinServ,France,FinTech,Growth,Tomás Ferreira,2026-04-05,qbr_snapshot,InsightGrid,69,207,49,11,0.5,35,42,62,1360.34,48972.24,Y,Declining health,Customer success review
+EVT-20096,CUST-1022,Maple Insurance,Canada,FinTech,Growth,Yuki Tanaka,2026-04-07,ticket_review,SupportPilot,55,168,42,12,5.5,32,57,44,3232.74,116378.64,Y,Ticket surge,Support escalation
+EVT-20097,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2026-04-07,health_scan,SupportPilot,971,2211,100,6,25.9,72,12,86,46540.11,1675443.96,N,,Routine check-in
+EVT-20098,CUST-1003,BlueHarbor Retail,Netherlands,Retail,Growth,Tomás Ferreira,2026-04-07,health_scan,SupportPilot,69,255,45,6,13.5,40,42,57,3020.06,108722.16,N,,Renewal planning call
+EVT-20099,CUST-1006,Mistral Pay,France,FinTech,Business,Anika Roth,2026-04-08,ticket_review,InsightGrid,114,300,77,3,20.1,64,24,72,5551.53,199855.08,N,,Routine check-in
+EVT-20100,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-04-08,renewal_review,InsightGrid,1178,2597,62,8,16.6,43,42,64,16088.68,193064.16,N,,Support escalation
+EVT-20101,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-04-08,adoption_audit,InsightGrid,765,1791,97,9,4.5,61,21,75,18044.35,216532.2,N,,Support escalation
+EVT-20102,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-04-13,renewal_review,FlowSphere,17,49,45,20,13.2,19,66,35,850.48,10205.76,Y,Ticket surge,Support escalation
+EVT-20103,CUST-1007,Polaris Health,Sweden,Healthcare,Starter,Pieter de Vries,2026-04-13,adoption_audit,InsightGrid,16,56,70,5,15.3,56,35,63,412.09,14835.24,N,,Routine check-in
+EVT-20104,CUST-1026,São Paulo Pay,Brazil,FinTech,Business,Tomás Ferreira,2026-04-14,ticket_review,FlowSphere,148,360,60,2,12.2,56,31,74,9319.8,335512.8,N,,Routine check-in
+EVT-20105,CUST-1015,Helios Software,Greece,SaaS,Enterprise,Henrik Bergstrom,2026-04-18,usage_check,SupportPilot,947,2171,55,8,10.4,45,38,61,24957.5,299490.0,N,,Support escalation
+EVT-20106,CUST-1016,Nimbus Cloud Co,Belgium,SaaS,Growth,Pieter de Vries,2026-04-18,ticket_review,SupportPilot,32,107,64,13,20.0,35,49,56,996.98,11963.76,Y,Ticket surge,Support escalation
+EVT-20107,CUST-1015,Helios Software,Greece,SaaS,Enterprise,Henrik Bergstrom,2026-04-20,health_scan,InsightGrid,594,2052,76,0,26.2,60,19,78,44371.25,532455.0,N,,Routine check-in
+EVT-20108,CUST-1007,Polaris Health,Sweden,Healthcare,Starter,Pieter de Vries,2026-04-21,usage_check,SupportPilot,11,38,22,4,29.2,26,64,43,624.13,7489.56,Y,Low adoption,Training session
+EVT-20109,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2026-04-21,usage_check,InsightGrid,339,964,64,0,0.5,61,19,75,29699.4,712785.6,N,,Routine check-in
+EVT-20110,CUST-1012,Iberia DataWorks,Portugal,SaaS,Business,Marta Sokolowska,2026-04-23,adoption_audit,FlowSphere,152,388,80,2,28.5,62,26,74,8088.05,97056.6,N,,Routine check-in
+EVT-20111,CUST-1022,Maple Insurance,Canada,FinTech,Growth,Yuki Tanaka,2026-04-24,health_scan,SupportPilot,59,153,85,6,0.5,63,12,84,2135.35,25624.2,N,,Routine check-in
+EVT-20112,CUST-1028,Doha LogiTech,Qatar,Manufacturing,Growth,Marta Sokolowska,2026-04-24,renewal_review,SupportPilot,29,61,52,4,4.3,46,32,70,2287.42,54898.08,N,,Routine check-in
+EVT-20113,CUST-1005,Aegis Cloud,Ireland,SaaS,Enterprise,Liam O'Connell,2026-04-24,ticket_review,InsightGrid,1478,4640,56,2,1.2,53,30,75,43244.0,518928.0,N,,Routine check-in
+EVT-20114,CUST-1012,Iberia DataWorks,Portugal,SaaS,Business,Marta Sokolowska,2026-04-25,adoption_audit,InsightGrid,202,745,59,4,5.3,50,26,72,7526.83,270965.88,N,,Routine check-in
+EVT-20115,CUST-1002,Helix Biotech,Switzerland,Healthcare,Enterprise,Pieter de Vries,2026-04-25,renewal_review,InsightGrid,905,2950,83,2,11.1,70,13,83,18500.59,666021.24,N,,Routine check-in
+EVT-20116,CUST-1020,Orbita Retail,Romania,Retail,Enterprise,Anika Roth,2026-04-26,qbr_snapshot,SupportPilot,1238,3332,32,0,33.2,37,49,51,57970.67,2086944.12,Y,Declining health,Customer success review
+EVT-20117,CUST-1008,Sturm Industries,Austria,Manufacturing,Growth,Noah Becker,2026-04-28,health_scan,FlowSphere,24,52,78,5,27.7,55,25,80,1046.75,25122.0,N,,Routine check-in
+EVT-20118,CUST-1013,Tundra Goods,Finland,Retail,Enterprise,Anika Roth,2026-04-29,usage_check,FlowSphere,1366,3337,51,0,1.5,55,30,66,30997.72,743945.28,N,,Routine check-in
+EVT-20119,CUST-1004,Volta FinServ,France,FinTech,Growth,Tomás Ferreira,2026-04-29,qbr_snapshot,SupportPilot,80,191,29,1,0.5,49,36,68,3408.27,40899.24,N,,Training session
+EVT-20120,CUST-1006,Mistral Pay,France,FinTech,Business,Anika Roth,2026-04-29,health_scan,SupportPilot,173,656,78,7,0.5,64,24,73,6049.63,72595.56,N,,Routine check-in
+EVT-20121,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-04-30,renewal_review,FlowSphere,12,25,55,2,19.2,56,29,78,886.75,10641.0,N,,Routine check-in
+EVT-20122,CUST-1024,Kanto FoodMart,Japan,Retail,Enterprise,Noah Becker,2026-04-30,usage_check,SupportPilot,1068,3158,65,5,5.2,63,32,63,50854.95,1830778.2,N,,Routine check-in
+EVT-20123,CUST-1009,Kestrel Markets,United Kingdom,FinTech,Starter,Pieter de Vries,2026-05-01,qbr_snapshot,SupportPilot,16,51,57,5,13.9,50,41,62,486.59,5839.08,N,,Routine check-in
+EVT-20124,CUST-1001,Nordwind Logistics,Germany,Manufacturing,Enterprise,Anika Roth,2026-05-02,renewal_review,InsightGrid,1412,4258,73,9,14.4,46,32,64,27688.6,996789.6,N,,Support escalation
+EVT-20125,CUST-1018,Copenhagen Med,Denmark,Healthcare,Growth,Yuki Tanaka,2026-05-02,health_scan,FlowSphere,52,163,98,0,4.8,89,1,99,1007.11,12085.32,N,,Routine check-in
+EVT-20126,CUST-1019,Praga Steelworks,Czechia,Manufacturing,Starter,Henrik Bergstrom,2026-05-03,health_scan,InsightGrid,21,44,71,8,0.5,51,30,70,416.34,9992.16,N,,Support escalation
+EVT-20127,CUST-1013,Tundra Goods,Finland,Retail,Enterprise,Anika Roth,2026-05-04,qbr_snapshot,InsightGrid,770,2737,94,7,10.3,74,18,88,17536.4,420873.6,N,,Routine check-in
+EVT-20128,CUST-1012,Iberia DataWorks,Portugal,SaaS,Business,Marta Sokolowska,2026-05-04,health_scan,FlowSphere,189,598,59,8,12.8,45,44,55,4800.42,57605.04,N,,Support escalation
